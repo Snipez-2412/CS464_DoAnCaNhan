@@ -338,7 +338,6 @@
             this.Name = "frm_QLKhachHang";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản Lý Khách Hàng";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.QLKhachHang_Load);
             this.grp_ThongTin.ResumeLayout(false);
             this.grp_ThongTin.PerformLayout();

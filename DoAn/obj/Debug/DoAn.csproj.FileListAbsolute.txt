@@ -25,3 +25,4 @@ D:\Class\Hè - 2024\CS 464 SA\DoAn\DoAn\bin\Debug\BouncyCastle.Cryptography.xml
 D:\Class\Hè - 2024\CS 464 SA\DoAn\DoAn\bin\Debug\itextsharp.xml
 D:\Class\Hè - 2024\CS 464 SA\DoAn\DoAn\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
 D:\Class\Hè - 2024\CS 464 SA\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\Class\Hè - 2024\CS 464 SA\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
